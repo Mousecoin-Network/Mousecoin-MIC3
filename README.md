@@ -1,6 +1,6 @@
-Mousecoin Info
-
-SPECIFICATIONS:<br>
+MOUSECOIN INFO
+--------------------------------------------------------------------------------------------------------------
+<b><u>SPECIFICATIONS:</u></b><br>
 Name: Mousecoin<br>
 Ticker: MIC3<br>
 Block time: 2.1 Minutes<br>
@@ -15,7 +15,7 @@ Port: 11099<br>
 rpcPort: 11098<br>
 Blocktime: ~2 Minutes<br>
 
-OFFICIAL LINKS:<br>
+<b><u>OFFICIAL LINKS:</u></b><br>
 Official Website - https://mousecoin.network/<br>
 Wallets - https://mousecoin.network/mousecoin-wallets/<br>
 Wallet Setup Guide - https://mousecoin.network/mousecoin-wallets/mousecoin-wallet-setup-guides/<br>
@@ -24,21 +24,21 @@ Explorer - http://explorer.mousecoin.network/<br>
                 - http://mic3.blockexplorer.monster/<br>
 Github - https://github.com/trapier21/mic3-master<br>
 <br>
- NEWS/UPDATES:<br>
+<b><u> NEWS/UPDATES:</u></b><br>
 BitcoinTalk - https://bitcointalk.org/index.php?topic=5081656.0<br>
 Discord - https://discord.gg/yGTmuG6<br>
 Telegram Mousecoin Official News - https://t.me/MousecoinOfficial<br>
 Twitter - https://twitter.com/MIC3_Official<br>
 <br>
- SUPPORT:<br>
+<b><u> SUPPORT:</u></b><br>
 Discord - https://discord.gg/bD4zKCC<br>
 Telegram - https://t.me/Mousecoin_MIC3<br>
 <br>
- FACEBOOK:<br>
+<b><u> FACEBOOK:</u></b><br>
 Mousecoin English - https://www.facebook.com/MousecoinOfficial/<br>
 Mousecoin Portuguese - https://www.facebook.com/Mousecoin-Mic3-Portuguese-100360761416673<br>
 <br>
-TELEGRAM:<br>
+<b><u>TELEGRAM:</u></b><br>
 Mousecoin English - https://t.me/Mousecoin_MIC3<br>
 Mousecoin Portuguese - https://t.me/MIC3Portuguese<br>
 Mousecoin Russian - https://t.me/MIC3Russian<br>
