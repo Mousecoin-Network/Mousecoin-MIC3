@@ -22,7 +22,7 @@ Wallet Setup Guide - https://mousecoin.network/mousecoin-wallets/mousecoin-walle
 Staking Info & Guides - https://mousecoin.network/mousecoin-wallets/staking-mousecoin/<br>
 Explorer - http://explorer.mousecoin.network/<br>
                 - http://mic3.blockexplorer.monster/<br>
-Github - https://github.com/trapier21/mic3-master<br>
+Github - https://github.com/ArcaneCrypto/Mousecoin-MIC3/<br>
 <br>
 <b><u> NEWS/UPDATES:</u></b><br>
 BitcoinTalk - https://bitcointalk.org/index.php?topic=5081656.0<br>
