@@ -52,14 +52,14 @@ CREX24:<br>
 -BTC / MIC3: https://crex24.com/exchange/MIC3-BTC<br>
 <br>
 Altmarkets:<br>
-DOGE/MIC3: https://altmarkets.io/trading/mic3doge<br>
+-DOGE/MIC3: https://altmarkets.io/trading/mic3doge<br>
 <br>
 BOLOLEX:<br>
-DOGE/MIC3: https://bololex.com/trading/?symbol=MIC3-DOGE<br>
+-DOGE/MIC3: https://bololex.com/trading/?symbol=MIC3-DOGE<br>
 <br>
 StakeCenter:<br>
-DOGE/MIC3: https://stakecenter.co/client/exchange/DOGE/MIC3<br>
-RDD/MIC3: https://stakecenter.co/client/exchange/RDD/MIC3<br>
+-DOGE/MIC3: https://stakecenter.co/client/exchange/DOGE/MIC3<br>
+-RDD/MIC3: https://stakecenter.co/client/exchange/RDD/MIC3<br>
 <br>
 YASOSHI.com<br>
 -DOGE/MIC3: https://yasoshi.com/market/MIC3-DOGE<br>
