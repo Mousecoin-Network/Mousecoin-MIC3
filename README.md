@@ -48,21 +48,21 @@ Mousecoin Australia - https://t.me/MIC3_Australia<br>
 Mousecoin Indonesian - https://t.me/MIC3Indonesia<br>
 
 <b><u> EXCHANGES:</u></b><br>
-CREX24:
--BTC / MIC3: https://crex24.com/exchange/MIC3-BTC
-
-Altmarkets:
-
-DOGE/MIC3: https://altmarkets.io/trading/mic3doge
-BOLOLEX
-
-DOGE/MIC3: https://bololex.com/trading/?symbol=MIC3-DOGE
-StakeCenter:
-
-DOGE/MIC3: https://stakecenter.co/client/exchange/DOGE/MIC3
-RDD/MIC3: https://stakecenter.co/client/exchange/RDD/MIC3
-YASOSHI.com
--DOGE/MIC3: https://yasoshi.com/market/MIC3-DOGE
--LTC/MIC3: https://yasoshi.com/market/MIC3-LTC
--BCH/MIC3: https://yasoshi.com/market/MIC3-BCH
--BTC/MIC3: https://yasoshi.com/market/MIC3-BTC
+CREX24:<br>
+-BTC / MIC3: https://crex24.com/exchange/MIC3-BTC<br>
+<br>
+Altmarkets:<br>
+DOGE/MIC3: https://altmarkets.io/trading/mic3doge<br>
+<br>
+BOLOLEX:<br>
+DOGE/MIC3: https://bololex.com/trading/?symbol=MIC3-DOGE<br>
+<br>
+StakeCenter:<br>
+DOGE/MIC3: https://stakecenter.co/client/exchange/DOGE/MIC3<br>
+RDD/MIC3: https://stakecenter.co/client/exchange/RDD/MIC3<br>
+<br>
+YASOSHI.com<br>
+-DOGE/MIC3: https://yasoshi.com/market/MIC3-DOGE<br>
+-LTC/MIC3: https://yasoshi.com/market/MIC3-LTC<br>
+-BCH/MIC3: https://yasoshi.com/market/MIC3-BCH<br>
+-BTC/MIC3: https://yasoshi.com/market/MIC3-BTC<br>
