@@ -14,7 +14,7 @@
    <string>About Mousecoin</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(76, 58, 39);
+   <string notr="true">background-color: white;
 color: rgb(166, 124, 82);</string>
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
@@ -144,7 +144,7 @@ This product includes software developed by the OpenSSL Project for use in the O
      <item>
       <widget class="QDialogButtonBox" name="buttonBox">
        <property name="styleSheet">
-        <string notr="true">background-color: rgb(76, 58, 39);
+        <string notr="true">background-color: white;
 color: rgb(166, 124, 82);</string>
        </property>
        <property name="orientation">
