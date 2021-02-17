@@ -79,7 +79,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0),
     nWeight(0)
 {
-    setFixedSize(1000, 600);
+    setFixedSize(825, 550);
 	QFontDatabase::addApplicationFont(":/fonts/Mousecoin");
     setWindowTitle(tr("Mousecoin") + " - " + tr("Client"));
      qApp->setStyleSheet("QMainWindow { background-color: white; }");
