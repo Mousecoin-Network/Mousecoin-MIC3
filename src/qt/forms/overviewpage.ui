@@ -38,8 +38,8 @@ color: rgb(166, 124, 82);</string>
     <rect>
      <x>-1</x>
      <y>-1</y>
-     <width>311</width>
-     <height>241</height>
+     <width>590</width>
+     <height>530</height>
     </rect>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout_2">
