@@ -25,6 +25,7 @@
    <property name="pixmap">
     <pixmap resource="../bitcoin.qrc">:/images/wallet</pixmap>
    </property>
+   </widget>
   <property name="palette">
    <palette>
     <active>
