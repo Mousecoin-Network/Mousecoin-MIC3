@@ -14,7 +14,7 @@
    <string>Coin Control</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">background-color: rgb(76, 58, 39);
+   <string notr="true">background-color: white;
 color: rgb(166, 124, 82);</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">

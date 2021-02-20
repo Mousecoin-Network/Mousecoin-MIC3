@@ -82,7 +82,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     setFixedSize(825, 550);
 	QFontDatabase::addApplicationFont(":/fonts/Mousecoin");
     setWindowTitle(tr("Mousecoin") + " - " + tr("Client"));
-     qApp->setStyleSheet("QMainWindow { background-color: rgb(76, 58, 39); }");
+     qApp->setStyleSheet("QMainWindow { background-color: white; }");
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
@@ -178,7 +178,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     QString curStyle = qApp->style()->metaObject()->className();
     if(curStyle == "QWindowsStyle" || curStyle == "QWindowsXPStyle")
     {
-        progressBar->setStyleSheet("QProgressBar { background-color: rgb(76, 58, 39); color: rgb(166, 124, 82); border-radius: 7px; padding: 1px; text-align: center; } QProgressBar::chunk { background: rgb(137, 105, 72); border-radius: 7px; margin: 0px; }");
+        progressBar->setStyleSheet("QProgressBar { background-color: white; color: rgb(166, 124, 82); border-radius: 7px; padding: 1px; text-align: center; } QProgressBar::chunk { background: rgb(137, 105, 72); border-radius: 7px; margin: 0px; }");
     }
 
     statusBar()->addWidget(progressBarLabel);
@@ -591,7 +591,8 @@ void BitcoinGUI::setNumBlocks(int count, int nTotalBlocks)
     else
     {
         tooltip = tr("Catching up...") + QString("<br>") + tooltip;
-        labelBlocksIcon->setMovie(syncIconMovie);
+        labelBlocksIcon->setPixmap(QIcon(":/icons/notsynced").pixmap(28,54));
+        //labelBlocksIcon->setMovie(syncIconMovie);
         syncIconMovie->start();
 
         overviewPage->showOutOfSyncWarning(true);
